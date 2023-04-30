@@ -22,3 +22,6 @@ To view the list of added medications and reminders, simply scroll down to the c
 This app was built using HTML, CSS, and JavaScript.
 
 "C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2023-04-30 160927.png"
+<img width="368" alt="Screenshot 2023-04-30 160927" src="https://user-images.githubusercontent.com/129672129/235348981-6fa6b156-5a4f-4682-bc10-6794a22c0707.png">
+
+
