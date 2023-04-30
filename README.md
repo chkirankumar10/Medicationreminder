@@ -20,3 +20,5 @@ To view the list of added medications and reminders, simply scroll down to the c
 ### Technologies Used
 
 This app was built using HTML, CSS, and JavaScript.
+
+"C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2023-04-30 160927.png"
